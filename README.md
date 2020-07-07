@@ -1,1 +1,1 @@
-# 个人父pom
+# jiangxch-parent-pom
